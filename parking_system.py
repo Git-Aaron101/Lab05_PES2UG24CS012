@@ -1,4 +1,6 @@
-﻿
+# Student SRN: PES2UG24CS012
+# Lab 5: Static Code Analysis
+
 """Manage parking permits and scan parking zones."""
 
 import json
